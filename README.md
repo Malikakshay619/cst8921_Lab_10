@@ -1,10 +1,3 @@
-```
-Perfect—let’s do the **README.md** now so you can include it in your Lab 10 submission. I’ll keep it clean, professional, and aligned with your **CST8921 Lab 10** requirements.
-
-Here’s what your README should look like:
-
----
-
 ## 📖 Azure PDF Summarizer using RAG (Lab 10)
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) application using **Azure OpenAI**, **Azure Cognitive Search**, and **LangChain**. It allows users to upload PDF documents, index their content into Azure Cognitive Search, and ask natural language questions to retrieve context-aware answers.
